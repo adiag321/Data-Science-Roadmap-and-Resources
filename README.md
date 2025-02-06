@@ -36,8 +36,32 @@ In this repository, I have curated all the materials one can use to study SQL, D
 --------------
 ### <a id="statistics"></a>1. PROBABILITY AND STATISTICS:
 
-- [Introduction to Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/pages/part-i-the-fundamentals/)
-- [Statistics A/B testing Interview Questions](https://www.interviewquery.com/p/statistics-ab-testing-interview-questions)
+### **Interview Preparation Questions**
+
+- **[Practice real-world problems on Interview Query](https://www.interviewquery.com/questions?searchQuery=&searchQuestionTag=&searchCompany=&tags=Statistics&tags=Probability)**  
+- **[Mock Interview by Exponent](https://www.youtube.com/watch?v=LLfLl5XwJzc&list=PLrtCHHeadkHqFEO69UiOj9BHA7pah-0fj&index=9)**  
+
+### **YouTube Playlists/Channels**
+
+- **[Ace the Statistics Interview by Emma Ding](https://www.youtube.com/playlist?list=PLY1Fi4XflWStljP1tzfAfU_Qn0wHzhzYm)**  
+- **[DATAtab](https://www.youtube.com/@datatab/playlists)**  
+- **[Statistics Made Easy by Andrew Jones](https://www.youtube.com/playlist?list=PLsmRQcJN_xK7GHNOEX6aVllckki3qypBl)**  
+- **[Statistics Fundamentals by StarQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)**  
+
+### **Articles/Videos**
+
+- **[Applying Causal Inference with Python: A Practical Guide](https://medium.com/@craakash/applying-causal-inference-with-python-a-practical-guide-cf4878a9c5b2)**  
+- **[Top 8 Statistics Interview Questions for a Data Science Interview](https://taylor-mark110.medium.com/top-8-statistics-interview-questions-for-a-data-science-interview-ef95ad1dfefb)**  
+- **[Hypothesis Testing](https://medium.com/@MrBam44/hypothesis-testing-ec49cfa40414)**  
+- **[Hypothesis Testing | Difference between Z-Test and T-Test](https://www.analyticsvidhya.com/blog/2020/06/statistics-analytics-hypothesis-testing-z-test-t-test/)**  
+- **[A/B testing: A step-by-step guide in Python | by Renato Fillinich](https://towardsdatascience.com/ab-testing-with-python-e5964dd66143)**  
+- **[Mastering Hypothesis Testing for DS Interviews by Youssef Hosni](https://yousefhosni.medium.com/mastering-hypothesis-testing-for-data-science-interviews-6d1465001518)**  
+- **[Understanding of A/B Testing with Udacity's Free Course](https://lnkd.in/eRCtUcnF)**  
+- **[Mastering A/B Testing: A Real World Business Example [Part 1]](https://pub.towardsai.net/mastering-a-b-testing-a-real-world-business-example-part-1-fa0ae3721e43)**  
+- **[Data Labs Statistics](https://datatab.net/tutorial/get-started)**  
+- **[How to Do A/B Testing: 15 Steps for the Perfect Split Test](https://blog.hubspot.com/marketing/how-to-do-a-b-testing?utm_source=youtube&utm_medium=social&utm_campaign=vV3g5VuSrIQ_academy_youtube)**  
+- **[Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7#.miqyczkzb)**  
+- **[A/B Testing Fundamentals: What Every Data Scientist Needs to Know! By Emma Ding](https://www.youtube.com/watch?v=VpTlNRUcIDo)**  
 
 #### [Go to Top](#top)
 --------------
@@ -50,38 +74,48 @@ In this repository, I have curated all the materials one can use to study SQL, D
 --------------
 ### <a id="sql"></a>3. SQL:
 
-#### PRACTICE:
-- [DataLemur Questions](https://datalemur.com/)
-- [StrataScatch Questions](https://www.stratascratch.com/blog/categories/sql/)
-- [Interview Query Questions](https://www.interviewquery.com/questions?searchQuery=&searchQuestionTag=&searchCompany=&ordering=Recommended&orderingDirection=ASC&pageSize=20&page=0)
-- [DataFord Io Questions](https://dataford.io/sql)
-- [LeetCode Questions](https://leetcode.com/problemset/database/)
-- [Hackerrank Questions](https://www.hackerrank.com/domains/sql)
-- [Analyst Builder Questions](https://www.analystbuilder.com/questions)
-- [Data with Danny: 8 Week SQL Challenge](https://8weeksqlchallenge.com/)
+### **Coding Practice Websites**
 
-#### INTERVIEW QUESTIONS:
-- [StrataScratch: Interview Questions - Youtube](https://www.youtube.com/playlist?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX)
-- [Tina Huang’s SQL Sunday Series: Interview](https://www.youtube.com/playlist?list=PLVD3APpfd1tuXrXBWAntLx4tNaONro5dA)
-- [SQL Interview Prep - GitHub](https://github.com/Aafreen29/SQL-Interview-Prep-Question)
-- [Clever Programming SQL Interview Questions](https://thecleverprogrammer.com/2023/07/19/sql-interview-questions-for-data-science/)
-- [Ken Jee’s Simple SQL Fundamentals](https://www.youtube.com/watch?v=WKXtTo7lqmA)
-- [Alex The Analyst’s YouTube SQL Playlists](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/featured)
-- [Data Science Jay’s SQL Mock Interview](https://www.youtube.com/watch?v=LcVz8wSM-AM)
-- [Edureka Top 65 SQL Interview Questions and Answers](https://www.youtube.com/watch?v=-WEpWH1NHGU)
-- [Top 23 SQL Interview Questions](https://youtu.be/l_dph6Qu4LA)
+- **[DataLemur](https://datalemur.com/questions?category=SQL)**  
+- **[LeetCode](https://leetcode.com/problemset/database/)** - [Unlocked Solutions](https://github.com/jjjchens235/leetcode-sql-unlocked/blob/master/db_fiddle_public_urls.md)  
+- **[Interview Query Coding Questions](https://www.interviewquery.com/questions)**  
+- **[StrataScatch](https://www.stratascratch.com/blog/categories/sql/)**  
+- **[DataFord Io](https://dataford.io/sql)**  
+- **[Hackerrank](https://www.hackerrank.com/domains/sql)**  
+- **[Analyst Builder](https://www.analystbuilder.com/questions)**  
+- **[SQL ZOO](https://sqlzoo.net/wiki/SQL_Tutorial)**  
+- **[Best Medium-Hard SQL Coding Questions and Answers](https://quip.com/2gwZArKuWk7W)**  
 
-#### LEARNING:
-- [GeeksForGeeks: 30 Days of SQL Basic to Advance](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)
-- [Crack Concepts SQL - Youtube Channel](https://www.youtube.com/@crackconcepts)
-- [Ankit Bansal - SQL - Youtube Channel](https://www.youtube.com/@ankitbansal6)
-- [MySQL Playlist by Krish Naik - Youtube Channel](https://www.youtube.com/playlist?list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
-- [Intro to SQL by Mode Analytics](https://mode.com/sql-tutorial/introduction-to-sql/)
-- [SQLZoo: SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
-- [W3Resources: SQL Exercises](https://www.w3resource.com/sql-exercises/)
+### **YouTube Playlists/Channels**
 
-#### GENERAL RESOURCES:
-- [5 Common SQL Interview Problems for Data Scientists](https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6)
+- **[Tina Huang’s SQL Series](https://www.youtube.com/playlist?list=PLVD3APpfd1tuXrXBWAntLx4tNaONro5dA)**  
+- **[StrataScratch - SQL Playlist](https://www.youtube.com/playlist?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX)**  
+- **[Crack Concepts SQL](https://www.youtube.com/@crackconcepts)**  
+- **[Ankit Bansal - SQL](https://www.youtube.com/@ankitbansal6)**  
+- **[Queries Asked in FAANG and MNCs](https://www.youtube.com/playlist?list=PLpDBa472H_1R_FXj0gwgrbddi0v5HJRbw)**  
+- **[Alex The Analyst’s SQL Playlists](https://www.youtube.com/@AlexTheAnalyst/playlists)**  
+
+### **Learning Resources**
+
+- **[DataLemur Nick Singh’s Guide](https://datalemur.com/blog/sql-interview-guide?utm_source=linkedin.com&utm_medium=social&utm_campaign=sql-interview-guide)**  
+- **[Top 25+ Data Science SQL Interview Questions](https://www.interviewquery.com/p/data-science-sql-interview-questions)**  
+- **[Mode Analytics - SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)**  
+- **[GeeksForGeeks: 30 Days of SQL (Basic to Advanced)](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)**  
+- **[Data with Danny: 8 Week SQL Challenge](https://8weeksqlchallenge.com/)**  
+- **[MySQL Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)**  
+- **[SQLZoo: SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)**  
+- **[W3Resources: SQL Exercises](https://www.w3resource.com/sql-exercises/)**  
+
+### **Interview Preparation**
+
+- **[Ken Jee’s Simple SQL Fundamentals](https://www.youtube.com/watch?v=WKXtTo7lqmA)**  
+- **[Facebook SQL Mock Technical Interview: Part 2 by Jay Fang](https://www.youtube.com/watch?v=LcVz8wSM-AM)**  
+- **[SQL Intermediate Concepts by TechTFQ](https://www.youtube.com/playlist?list=PLavw5C92dz9FD9XspliRM_HZM_jK7tkii)**  
+- **[Top SQL Questions Part 1 (TOP N) - Emma Ding](https://www.youtube.com/watch?v=zPSIUE9TxBw&ab_channel=EmmaDing)**  
+- **[Top SQL Questions Part 2 (Ratios) - Emma Ding](https://www.youtube.com/watch?v=DJ7NiQ2rnGE&ab_channel=EmmaDing)**  
+- **[Amazon SQL Interview Question](https://www.youtube.com/watch?v=YJJrVpEVl4Y&ab_channel=FrederikM%C3%BCller)**  
+- **[Clever Programming SQL Interview Questions](https://thecleverprogrammer.com/2023/07/19/sql-interview-questions-for-data-science/)**  
+- **[Complex SQL 2 - Find New and Repeat Customers | Ankit Bansal](https://www.youtube.com/watch?v=MpAMjtvarrc&ab_channel=AnkitBansal)**
 
 #### [Go to Top](#top)
 --------------
