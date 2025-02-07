@@ -13,7 +13,7 @@ In this repository, I have curated all the materials one can use to study SQL, D
 7. [Case Studies](#case-studies)
 
 --------------
-### <a id="YouTubers"></a>YOUTUBERS/PLAYLISTS TO FOLLOW:
+### <a id="YouTubers"></a>YOUTUBERS/PLAYLISTS TO FOLLOW --
 - [KRISH NAIK COMPLETE MACHINE LEARNING: Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 - [CampusX: Playlist](https://www.youtube.com/@campusx-official/playlists)
 - [Data Monk Channel - Machine Learning: Playlist](https://www.youtube.com/@thedatamonk7779/videos)
@@ -35,21 +35,21 @@ In this repository, I have curated all the materials one can use to study SQL, D
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz)
 
 --------------
-### <a id="statistics"></a>1. PROBABILITY AND STATISTICS:
+### <a id="statistics"></a>1. PROBABILITY AND STATISTICS --
 
-### **Interview Preparation Questions**
+#### **Interview Preparation Questions --**
 
 - **[Practice real-world problems on Interview Query](https://www.interviewquery.com/questions?searchQuery=&searchQuestionTag=&searchCompany=&tags=Statistics&tags=Probability)**  
 - **[Mock Interview by Exponent](https://www.youtube.com/watch?v=LLfLl5XwJzc&list=PLrtCHHeadkHqFEO69UiOj9BHA7pah-0fj&index=9)**  
 
-### **YouTube Playlists/Channels**
+#### **YouTube Playlists/Channels --**
 
 - **[Ace the Statistics Interview by Emma Ding](https://www.youtube.com/playlist?list=PLY1Fi4XflWStljP1tzfAfU_Qn0wHzhzYm)**  
 - **[DATAtab](https://www.youtube.com/@datatab/playlists)**  
 - **[Statistics Made Easy by Andrew Jones](https://www.youtube.com/playlist?list=PLsmRQcJN_xK7GHNOEX6aVllckki3qypBl)**  
 - **[Statistics Fundamentals by StarQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)**  
 
-### **Articles/Videos**
+#### **Articles/Videos --**
 
 - **[Applying Causal Inference with Python: A Practical Guide](https://medium.com/@craakash/applying-causal-inference-with-python-a-practical-guide-cf4878a9c5b2)**  
 - **[Top 8 Statistics Interview Questions for a Data Science Interview](https://taylor-mark110.medium.com/top-8-statistics-interview-questions-for-a-data-science-interview-ef95ad1dfefb)**  
@@ -66,16 +66,16 @@ In this repository, I have curated all the materials one can use to study SQL, D
 
 #### [Go to Top](#top)
 --------------
-### <a id="python"></a>2. PYTHON:
+### <a id="python"></a>2. PYTHON --
 
 - [Python for Data Analysis by DataDraft - Youtube Playlist](https://www.youtube.com/playlist?list=PLiC1doDIe9rCYWmH9wIEYEXXaJ4KAi3jc)
 - [Corey Schafer - Youtube Channel](https://www.youtube.com/user/schafer5)
 
 #### [Go to Top](#top)
 --------------
-### <a id="sql"></a>3. SQL:
+### <a id="sql"></a>3. SQL --
 
-### **Coding Practice**
+#### **Coding Practice --**
 
 - **[DataLemur](https://datalemur.com/questions?category=SQL)**  
 - **[LeetCode](https://leetcode.com/problemset/database/)** - [Unlocked Solutions](https://github.com/jjjchens235/leetcode-sql-unlocked/blob/master/db_fiddle_public_urls.md)  
@@ -87,7 +87,7 @@ In this repository, I have curated all the materials one can use to study SQL, D
 - **[SQL ZOO](https://sqlzoo.net/wiki/SQL_Tutorial)**  
 - **[Best Medium-Hard SQL Coding Questions and Answers](https://quip.com/2gwZArKuWk7W)**  
 
-### **YouTube Playlists/Channels**
+#### **YouTube Playlists/Channels --**
 
 - **[Tina Huang’s SQL Series](https://www.youtube.com/playlist?list=PLVD3APpfd1tuXrXBWAntLx4tNaONro5dA)**  
 - **[StrataScratch - SQL Playlist](https://www.youtube.com/playlist?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX)**  
@@ -96,7 +96,7 @@ In this repository, I have curated all the materials one can use to study SQL, D
 - **[Queries Asked in FAANG and MNCs](https://www.youtube.com/playlist?list=PLpDBa472H_1R_FXj0gwgrbddi0v5HJRbw)**  
 - **[Alex The Analyst’s SQL Playlists](https://www.youtube.com/@AlexTheAnalyst/playlists)**  
 
-### **Learning Resources**
+#### **Learning Resources --**
 
 - **[DataLemur Nick Singh’s Guide](https://datalemur.com/blog/sql-interview-guide?utm_source=linkedin.com&utm_medium=social&utm_campaign=sql-interview-guide)**  
 - **[Top 25+ Data Science SQL Interview Questions](https://www.interviewquery.com/p/data-science-sql-interview-questions)**  
@@ -107,7 +107,7 @@ In this repository, I have curated all the materials one can use to study SQL, D
 - **[SQLZoo: SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)**  
 - **[W3Resources: SQL Exercises](https://www.w3resource.com/sql-exercises/)**  
 
-### **Interview Preparation**
+#### **Interview Preparation --**
 
 - **[Ken Jee’s Simple SQL Fundamentals](https://www.youtube.com/watch?v=WKXtTo7lqmA)**  
 - **[Facebook SQL Mock Technical Interview: Part 2 by Jay Fang](https://www.youtube.com/watch?v=LcVz8wSM-AM)**  
@@ -120,28 +120,28 @@ In this repository, I have curated all the materials one can use to study SQL, D
 
 #### [Go to Top](#top)
 --------------
-### <a id="machine-learning"></a>4. MACHINE LEARNING:
+### <a id="machine-learning"></a>4. MACHINE LEARNING --
 
-### **Interview Preparation**
+#### **Interview Preparation --**
 - [Data Science Interviews by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-)
 
-### **Learning Resources**
+#### **Learning Resources --**
 - [DATA SCIENCE FOR BEGINNERS BY CODEBASICS - YOUTUBE PLAYLIST](https://www.youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV)
 - [Unsupervised Machine Learning by Cognitive Class (Project Based)](https://cognitiveclass.ai/learn/unsupervised-machine-learning)
 
 #### [Go to Top](#top)
 --------------
-### <a id="classical-ml"></a>5. CLASSICAL MACHINE LEARNING ALGORITHMS
+### <a id="classical-ml"></a>5. CLASSICAL MACHINE LEARNING ALGORITHMS --
 - [All Learning Algorithms Explained in 14 Minutes](https://www.youtube.com/watch?v=BT6Aw6Q75Yg)
 
-### A. Linear Regression
+#### A. Linear Regression
 - [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/)
 - [Linear Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=E5RjzSK0fvY)
 - [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)
 - [Ridge Regression - Clearly Explained](https://www.youtube.com/watch?v=Q81RR3yKn30)
 - [Lasso Regression - Clearly Explained](https://www.youtube.com/watch?v=NGf0voTMlcs)
 
-### B. Logistic Regression
+#### B. Logistic Regression
 - [Logistic Regression In-depth Maths Intuition In Hindi by Krish Naik](https://www.youtube.com/watch?v=_nvQKN8L1ZE&ab_channel=KrishNaikHindi)
 - [All about Logistic Regression in one article](https://towardsdatascience.com/logistic-regression-b0af09cdb8ad)  
 - [Understanding Logistic Regression step-by-step](https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a)  
@@ -151,7 +151,7 @@ In this repository, I have curated all the materials one can use to study SQL, D
 - [Logistic Regression - Understand Everything (Theory + Maths + Coding): Video](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
 - [Lasso, Ridge and Logistic Regression: Video](https://www.youtube.com/live/vaQxdBEcBzU?si=3judBH9xcRefRwGP)
 
-### C. Tree-Based/Ensemble Algorithms
+#### C. Tree-Based/Ensemble Algorithms
 - [30 Questions to test a Data Scientist on Tree based models](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/)
 - [Gini-index v/s Information Entropy](https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb)
 - [Decision Tree vs. Random Forest – Which Algorithm Should you Use?](https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/)
@@ -159,29 +159,29 @@ In this repository, I have curated all the materials one can use to study SQL, D
 - [Comprehensive guide to Ensemble Models](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
 - [The Simple Math behind 3 Decision Tree Splitting criteria](https://mlwhiz.com/blog/2019/11/12/dtsplits/)
 
-### D. K-Nearest-Neighbors
+#### D. K-Nearest-Neighbors
 - [Fundamental Interview Questions on KNN - A Quick refresh](http://theprofessionalspoint.blogspot.com/2019/01/knn-algorithm-in-machine-learning.html)
 - [30 Questions to test a Data Scientist on KNN](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
 - [Pros and Cons of KNN](https://www.fromthegenesis.com/pros-and-cons-of-k-nearest-neighbors/)
 - [KNN Algorithm - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=6kZ-OPLNcgE)
 
-### E. Support Vector Machines
+#### E. Support Vector Machines
 - [All about SVMs - Math, Terminology, Intuition, Kernels in one article](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589)
 - [25 Questions to test a Data Scientist on SVMs](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/)
 
-### F. Naive Bayes
+#### F. Naive Bayes
 - [12 tips to make the most out of Naive Bayes](https://machinelearningmastery.com/better-naive-bayes/)
 - [Naive Bayes - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=vz_xuxYS2PM)
 - [6 easy steps to learn Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 
-### G. Feature Selection
+#### G. Feature Selection
 - [Awesome Feature Engineering for Machine Learning: GitHub](https://github.com/aikho/awesome-feature-engineering)
 
 #### [Go to Top](#top)
 --------------
-### <a id="mlops"></a>6. MLOps:
+### <a id="mlops"></a>6. MLOps --
 
-### **Learning (YouTube Playlists/Channels):**
+#### **Learning (YouTube Playlists/Channels) --**
 
 - [Amazon SageMaker (Krish Naik)](https://www.youtube.com/playlist?list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
 - [Docker Tutorial for Beginners (2024 Guide)](https://www.knowledgehut.com/blog/devops/docker-for-beginners#frequently-asked-questions)
@@ -199,11 +199,11 @@ The best way to approach such a question is to have a framework -
 6. Explain how you would Productionalize.
 6. Explain how you would A/B test the final model
 
-### **Learning resources**
+#### **Learning resources --**
 - [Product Case Interviews for Data Science Jobs by Emma Ding: YouTube Playlist](https://www.youtube.com/watch?v=QJat_nicj9c&list=PLY1Fi4XflWSvtu963rZpfH6WeX54vSrDW&index=3)
 - [Tips for a Case-Study Interview](https://workera.ai/resources/data-science-case-study-interview/)
 
-### **Company Specific Case Studies**
+#### **Company Specific Case Studies --**
 - [Dawn of Taxi Aggregators](https://www.analyticsvidhya.com/blog/2016/04/case-study-analytics-interviews-dawn-taxi-aggregators/)
 - [Optimizing product prices for an online vendor](https://www.analyticsvidhya.com/blog/2016/07/solving-case-study-optimize-products-price-online-vendor-level-hard/)
 - [Mercari Price Prediction](https://towardsdatascience.com/a-data-science-case-study-with-python-mercari-price-prediction-4e852d95654)
