@@ -13,7 +13,7 @@ In this repository, I have curated all the materials one can use to study SQL, D
 7. [Case Studies](#case-studies)
 
 --------------
-### <a id="YouTubers"></a>YOUTUBERS/PLAYLISTS TO FOLLOW --
+### <a id="YouTubers"></a>YouTubers/Playlists to Follow --
 - [KRISH NAIK COMPLETE MACHINE LEARNING: Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 - [CampusX: Playlist](https://www.youtube.com/@campusx-official/playlists)
 - [Data Monk Channel - Machine Learning: Playlist](https://www.youtube.com/@thedatamonk7779/videos)
