@@ -8,21 +8,22 @@ In this repository, I have curated all the materials one can use to study SQL, D
 3. [Python](#python)
 4. [SQL](#sql)
 5. [Machine Learning](#machine-learning)
+6. [MLOPS](#mlops)
 6. [Classical Machine Learning Algorithms](#classical-ml)
 7. [Case Studies](#case-studies)
 
 --------------
 ### <a id="YouTubers"></a>YOUTUBERS/PLAYLISTS TO FOLLOW:
-- [KRISH NAIK COMPLETE MACHINE LEARNING PLAYLISTS](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
-- [CampusX](https://www.youtube.com/@campusx-official/playlists)
-- [Data Monk Channel - Machine Learning ](https://www.youtube.com/@thedatamonk7779/videos)
+- [KRISH NAIK COMPLETE MACHINE LEARNING: Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+- [CampusX: Playlist](https://www.youtube.com/@campusx-official/playlists)
+- [Data Monk Channel - Machine Learning: Playlist](https://www.youtube.com/@thedatamonk7779/videos)
 - [Data Professor](https://www.youtube.com/dataprofessor?sub_confirmation=1)
 - [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 - [Cory Schafer](https://www.youtube.com/user/schafer5)
 - [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
 - [Data School](https://www.youtube.com/user/dataschool)
-- [Siddhardhan](https://www.youtube.com/c/Siddhardhan/videos)
-- [The Data Scientist Show by Daliana Liu - DATA PODCAST](https://www.youtube.com/@TheDataScientistShow/videos)
+- [Siddhardhan: Playlist](https://www.youtube.com/c/Siddhardhan/videos)
+- [The Data Scientist Show by Daliana Liu - DATA PODCAST: Playlist](https://www.youtube.com/@TheDataScientistShow/videos)
 - [Ken Jee](https://www.youtube.com/c/kenjee1?sub_confirmation=1)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [Sentdex](https://www.youtube.com/user/sentdex)
@@ -74,7 +75,7 @@ In this repository, I have curated all the materials one can use to study SQL, D
 --------------
 ### <a id="sql"></a>3. SQL:
 
-### **Coding Practice Websites**
+### **Coding Practice**
 
 - **[DataLemur](https://datalemur.com/questions?category=SQL)**  
 - **[LeetCode](https://leetcode.com/problemset/database/)** - [Unlocked Solutions](https://github.com/jjjchens235/leetcode-sql-unlocked/blob/master/db_fiddle_public_urls.md)  
@@ -102,7 +103,7 @@ In this repository, I have curated all the materials one can use to study SQL, D
 - **[Mode Analytics - SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)**  
 - **[GeeksForGeeks: 30 Days of SQL (Basic to Advanced)](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)**  
 - **[Data with Danny: 8 Week SQL Challenge](https://8weeksqlchallenge.com/)**  
-- **[MySQL Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)**  
+- **[MySQL Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)**
 - **[SQLZoo: SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)**  
 - **[W3Resources: SQL Exercises](https://www.w3resource.com/sql-exercises/)**  
 
@@ -121,10 +122,10 @@ In this repository, I have curated all the materials one can use to study SQL, D
 --------------
 ### <a id="machine-learning"></a>4. MACHINE LEARNING:
 
-#### INTERVIEW:
+### **Interview Preparation**
 - [Data Science Interviews by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-)
 
-#### LEARNING:
+### **Learning Resources**
 - [DATA SCIENCE FOR BEGINNERS BY CODEBASICS - YOUTUBE PLAYLIST](https://www.youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV)
 - [Unsupervised Machine Learning by Cognitive Class (Project Based)](https://cognitiveclass.ai/learn/unsupervised-machine-learning)
 
@@ -178,23 +179,33 @@ In this repository, I have curated all the materials one can use to study SQL, D
 
 #### [Go to Top](#top)
 --------------
-### <a id="case-studies"></a>6. CASE STUDIES:
+### <a id="mlops"></a>6. MLOps:
+
+### **Learning (YouTube Playlists/Channels):**
+
+- [Amazon SageMaker (Krish Naik)](https://www.youtube.com/playlist?list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
+- [Docker Tutorial for Beginners (2024 Guide)](https://www.knowledgehut.com/blog/devops/docker-for-beginners#frequently-asked-questions)
+- [The 24 MOST POPULAR AWS Services You Need to Know in 2025](https://www.youtube.com/watch?v=G-4o0dclZeQ&ab_channel=ITkFunde)
+
+#### [Go to Top](#top)
+--------------
+### <a id="case-studies"></a>7. CASE STUDIES:
 The best way to approach such a question is to have a framework -
 1. Ask questions to narrow down the problem area
 2. Suggest and use feedback to decide on business metrics relevant to the problem
 3. Decide the best ML formulation (classification/forecasting/recommendation)
 4. Decide on model metrics that can tie to business metrics.
 5. Suggest which models you would experiment with
-6. Explain how you would productionalize.
+6. Explain how you would Productionalize.
 6. Explain how you would A/B test the final model
 
-#### LEARNING:
-- [Product Case Interviews for Data Science Jobs by Emma Ding: Youtube Playlist](https://www.youtube.com/watch?v=QJat_nicj9c&list=PLY1Fi4XflWSvtu963rZpfH6WeX54vSrDW&index=3)
+### **Learning resources**
+- [Product Case Interviews for Data Science Jobs by Emma Ding: YouTube Playlist](https://www.youtube.com/watch?v=QJat_nicj9c&list=PLY1Fi4XflWSvtu963rZpfH6WeX54vSrDW&index=3)
+- [Tips for a Case-Study Interview](https://workera.ai/resources/data-science-case-study-interview/)
 
-#### RESOURCES:
+### **Company Specific Case Studies**
 - [Dawn of Taxi Aggregators](https://www.analyticsvidhya.com/blog/2016/04/case-study-analytics-interviews-dawn-taxi-aggregators/)
 - [Optimizing product prices for an online vendor](https://www.analyticsvidhya.com/blog/2016/07/solving-case-study-optimize-products-price-online-vendor-level-hard/)
-- [Tips for a Case-Study Interview](https://workera.ai/resources/data-science-case-study-interview/)
 - [Mercari Price Prediction](https://towardsdatascience.com/a-data-science-case-study-with-python-mercari-price-prediction-4e852d95654)
 - [End-to-End multiclass Text Classification pipeline](https://mlwhiz.com/blog/2020/05/24/multitextclass/)
 - [End-to-End multiclass Image Classification pipeline](https://mlwhiz.com/blog/2020/06/06/multiclass_image_classification_pytorch/)
